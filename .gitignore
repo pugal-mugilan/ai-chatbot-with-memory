@@ -1,2 +1,5 @@
-echo "venv/\n.env\nchat_history.json\n__pycache__/" > .gitignore
-echo 'GEMINI_API_KEY="your-key-here"' > .env
+venv/
+.env
+chat_history.json
+__pycache__/
+.idea/
