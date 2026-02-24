@@ -1,4 +1,4 @@
-# AI Chatbot — Project 1
+# AI Chatbot 
 
 A conversational CLI chatbot built with Python and Google Gemini API.
 Built as part of my AI engineering learning journey.
